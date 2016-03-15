@@ -1,2 +1,2 @@
 # paddle_App
-First
+this is my first app, it is simple game in Swift using SpriteKit
